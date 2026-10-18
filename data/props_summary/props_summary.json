@@ -1,0 +1,9 @@
+{
+  "pull": {
+    "status": "stopped_at_budget",
+    "games": 8,
+    "credits_spent": 80
+  },
+  "rows": 0,
+  "note": "no rows returned"
+}
